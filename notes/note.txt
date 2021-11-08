@@ -1,0 +1,6 @@
+JSON response in http:
+- /home/jia/learningspace/Tweetme-2/tweets/views.py
+- from django.http import HttpResponse, Http404, JsonResponse
+
+Template:
+- Dynamically use javascript to load tweets: <branch> 16-DynamicLoadTweetsviaJavaScript
